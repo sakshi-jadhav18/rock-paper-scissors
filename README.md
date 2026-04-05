@@ -38,7 +38,7 @@ app.js
 3. Start playing the game.
 
 ## 📸 Screenshot
-<img width="1776" height="1050" alt="image" src="https://github.com/user-attachments/assets/57eebba2-fc0d-4674-99dc-55bd3fdcc9f4" />
+<img width="1611" height="898" alt="image" src="https://github.com/user-attachments/assets/fb707ca5-ff3f-443b-b884-f3aabeedd9da" />
 
 ## 📌 Author
 Your Name
